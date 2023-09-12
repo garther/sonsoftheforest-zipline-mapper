@@ -13,7 +13,11 @@ The Sons Of The Forest Zipline Point Mapper is a Python script designed to extra
 
 This README provides instructions on how to install and use the script to map zipline points from Sons Of The Forest game saves.
 
-# Prerequisites
+Please note that this script is not perfect, it uses a static pixel to coordinates ratio and the ziplines are little bit shifted. Still it provides a nice way to navigate when you have a lot ziplines on the map 😀
+
+## Example
+![example map](example/zipline_map.png)
+## Prerequisites
 Before using the Sons Of The Forest Zipline Point Mapper, ensure you have the following prerequisites:
 
 - Python 3.x installed on your system.
